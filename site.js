@@ -1,3 +1,16 @@
+// Google Analytics 4 (G-G5ST0739FE), loaded on every page that includes site.js
+(function () {
+  if (window.gtag) return;
+  var s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-G5ST0739FE';
+  document.head.appendChild(s);
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function () { dataLayer.push(arguments); };
+  gtag('js', new Date());
+  gtag('config', 'G-G5ST0739FE');
+})();
+
 // Shared bits for every page: social icons in the footer + "Guruji's teachings" link in the menu.
 // To change a link, edit it here once.
 (function () {
