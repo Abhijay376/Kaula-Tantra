@@ -32,7 +32,7 @@ Read `project-context.md` first if present. Lineage facts are fixed.
    d. Run the **humanizer:humanizer** skill on everything YOU wrote (hero line, bullets, practice section, FAQs, meta description).
       Never run it on Guruji's original text or anyone's quoted words.
    e. `<head>`: `<title>` (keyword first, under 60 chars), `<meta name="description">` (150-160 chars),
-      `<link rel="canonical" href="https://kauladevimarga.pages.dev/<slug>.html">`, Open Graph title/description,
+      `<link rel="canonical" href="https://kaula-tantra.com/<slug>.html">`, Open Graph title/description,
       and two JSON-LD blocks: BlogPosting (author, datePublished, isBasedOn = source URL) and FAQPage.
    f. Add a card at the TOP of the grid in `teachings.html` (same markup as cards in blog.html).
    g. Add the page to `sitemap.xml` (create it if missing).
