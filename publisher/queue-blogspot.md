@@ -8,8 +8,8 @@ The owner's full URL list matches this feed.
 Tick lines like: `- [x] guruji | URL -> slug.html`
 
 ## Priority (do these first, in this order)
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/blog-page_66.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/dasha-maha-vidyas.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/p/blog-page_66.html -> hymn-of-kaulas.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/p/dasha-maha-vidyas.html -> dasha-maha-vidyas.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2025/04/only-unburnable-remains.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2017/01/purpose.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/last-message.html
