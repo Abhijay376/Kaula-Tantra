@@ -12,8 +12,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/p/dasha-maha-vidyas.html -> dasha-maha-vidyas.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2025/04/only-unburnable-remains.html -> only-unburnable-remains.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2017/01/purpose.html -> why-guruji-shared-freely.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/last-message.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/conversation-between-spiritual-father.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/last-message.html -> last-message-and-viraja-homam.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/conversation-between-spiritual-father.html -> spiritual-father-and-son-dialogue.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/daily-affirmations.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-are-my-dreams.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/just-point.html
