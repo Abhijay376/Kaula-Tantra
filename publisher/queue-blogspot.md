@@ -18,8 +18,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-are-my-dreams.html -> what-are-my-dreams.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/just-point.html -> just-a-point-poem.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/words-of-kamakhya.html -> kamakhya-command-at-devipuram.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/your-effort-is-guru.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/darshanam-of-goddess.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/your-effort-is-guru.html -> inner-guru-and-direct-experience.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/darshanam-of-goddess.html -> darshanam-of-the-goddess.html
 
 ## Rest of the blog (filled on first run)
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guruji-at-devipuram.html
