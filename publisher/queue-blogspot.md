@@ -24,8 +24,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 ## Rest of the blog (filled on first run)
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guruji-at-devipuram.html -> guruji-at-devipuram.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/durga-saptashati-inquiring-beyond.html -> durga-saptashati-beyond-the-stories.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-prologue.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-three.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-prologue.html -> understanding-sri-chakra-puja-prologue.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-three.html -> understanding-sri-chakra-puja-three-shaktis.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-maheswara.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-sri.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-central-triangle-8-triangle-figure.html
