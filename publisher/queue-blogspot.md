@@ -22,8 +22,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/darshanam-of-goddess.html -> darshanam-of-the-goddess.html
 
 ## Rest of the blog (filled on first run)
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guruji-at-devipuram.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/durga-saptashati-inquiring-beyond.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guruji-at-devipuram.html -> guruji-at-devipuram.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/durga-saptashati-inquiring-beyond.html -> durga-saptashati-beyond-the-stories.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-prologue.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-three.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-maheswara.html
