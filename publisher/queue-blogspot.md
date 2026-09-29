@@ -26,8 +26,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/durga-saptashati-inquiring-beyond.html -> durga-saptashati-beyond-the-stories.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-prologue.html -> understanding-sri-chakra-puja-prologue.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-three.html -> understanding-sri-chakra-puja-three-shaktis.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-maheswara.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-sri.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-maheswara.html -> understanding-sri-chakra-puja-maheshwara-sutra.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-sri.html -> understanding-sri-chakra-puja-sri-chakra-bindu.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-central-triangle-8-triangle-figure.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-fourteen-worlds-of-evolution.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-ten-mudra-shaktis-and-ten-siddhis.html
