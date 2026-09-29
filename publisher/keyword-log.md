@@ -10,3 +10,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-09-26 | spiritual-father-and-son-dialogue | "you are the creator of the universe" | no live keyword tool available in this run, picked for search intent match with the page content
 2026-09-28 | daily-affirmations | "daily affirmations" | no live keyword tool in this run, chosen for search intent
 2026-09-28 | what-are-my-dreams | "Guruji dreams love nature" | no live keyword tool in this run, chosen for content match
+2026-09-29 | uscp-central-triangle-ten-cornered-figures | "sri chakra central triangle" | no live keyword tool in this run, chosen for search intent
+2026-09-29 | uscp-fourteen-worlds-square-enclosures | "fourteen worlds of evolution" | no live keyword tool in this run, chosen for search intent

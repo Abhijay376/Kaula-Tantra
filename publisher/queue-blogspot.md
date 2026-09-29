@@ -28,8 +28,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-three.html -> understanding-sri-chakra-puja-three-shaktis.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-maheswara.html -> understanding-sri-chakra-puja-maheshwara-sutra.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/understanding-sri-chakra-puja-sri.html -> understanding-sri-chakra-puja-sri-chakra-bindu.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-central-triangle-8-triangle-figure.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-fourteen-worlds-of-evolution.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-central-triangle-8-triangle-figure.html -> uscp-central-triangle-ten-cornered-figures.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-fourteen-worlds-of-evolution.html -> uscp-fourteen-worlds-square-enclosures.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-ten-mudra-shaktis-and-ten-siddhis.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-origins-and-worship-of-sri-chakra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-essence-of-ritual-of-sri-chakra.html
