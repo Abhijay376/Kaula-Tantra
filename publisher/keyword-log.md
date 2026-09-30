@@ -12,3 +12,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-09-28 | what-are-my-dreams | "Guruji dreams love nature" | no live keyword tool in this run, chosen for content match
 2026-09-29 | uscp-central-triangle-ten-cornered-figures | "sri chakra central triangle" | no live keyword tool in this run, chosen for search intent
 2026-09-29 | uscp-fourteen-worlds-square-enclosures | "fourteen worlds of evolution" | no live keyword tool in this run, chosen for search intent
+2026-09-30 | uscp-ten-mudra-shaktis-and-ten-siddhis | "mudra shaktis sri chakra" | no live keyword tool in this run, chosen for search intent
+2026-09-30 | uscp-origins-and-worship-of-sri-chakra | "origins of sri chakra" | no live keyword tool in this run, chosen for search intent
