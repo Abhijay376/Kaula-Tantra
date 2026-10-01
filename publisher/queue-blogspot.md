@@ -32,8 +32,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-fourteen-worlds-of-evolution.html -> uscp-fourteen-worlds-square-enclosures.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-ten-mudra-shaktis-and-ten-siddhis.html -> uscp-ten-mudra-shaktis-and-ten-siddhis.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-origins-and-worship-of-sri-chakra.html -> uscp-origins-and-worship-of-sri-chakra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-essence-of-ritual-of-sri-chakra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-brief-glimpse-at-sri-kramam.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-essence-of-ritual-of-sri-chakra.html -> uscp-essence-of-the-sri-chakra-ritual.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-brief-glimpse-at-sri-kramam.html -> uscp-brief-glimpse-at-the-sri-kramam.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-first-look-at-lalita-kramam.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-navaavarana-puja-shakti-puja.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-meanings-of-channels-which-are.html

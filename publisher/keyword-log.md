@@ -14,3 +14,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-09-29 | uscp-fourteen-worlds-square-enclosures | "fourteen worlds of evolution" | no live keyword tool in this run, chosen for search intent
 2026-09-30 | uscp-ten-mudra-shaktis-and-ten-siddhis | "mudra shaktis sri chakra" | no live keyword tool in this run, chosen for search intent
 2026-09-30 | uscp-origins-and-worship-of-sri-chakra | "origins of sri chakra" | no live keyword tool in this run, chosen for search intent
+2026-10-01 | uscp-essence-of-the-sri-chakra-ritual | "sri chakra puja ritual" | no live keyword tool in this run, chosen for search intent
+2026-10-01 | uscp-brief-glimpse-at-the-sri-kramam | "sri kramam" | no live keyword tool in this run, chosen for search intent
