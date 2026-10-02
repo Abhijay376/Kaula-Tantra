@@ -42,9 +42,9 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-prayer-to-lord-ganesha.html -> uscp-prayer-to-lord-ganesha.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-surya-mantra.html -> uscp-surya-mantra.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-lighting-lamp.html -> uscp-lighting-the-lamp.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-44-meditations-of-sri-chakra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-worshipping-bindu-and-trikona.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-viraja-homa.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-44-meditations-of-sri-chakra.html -> uscp-44-meditations-of-the-sri-chakra.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-worshipping-bindu-and-trikona.html -> skipped (too short, one paragraph)
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-viraja-homa.html -> uscp-viraja-homa.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-dealing-with-obstacles-to-puja.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-vajra-panjara-nyasam-diamond-cage.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-vagdevata-nyasa-ajna-chakra.html
