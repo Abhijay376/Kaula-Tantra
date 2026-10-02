@@ -34,8 +34,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-origins-and-worship-of-sri-chakra.html -> uscp-origins-and-worship-of-sri-chakra.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-essence-of-ritual-of-sri-chakra.html -> uscp-essence-of-the-sri-chakra-ritual.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-brief-glimpse-at-sri-kramam.html -> uscp-brief-glimpse-at-the-sri-kramam.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-first-look-at-lalita-kramam.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-navaavarana-puja-shakti-puja.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-first-look-at-lalita-kramam.html -> uscp-first-look-at-the-lalita-kramam.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-navaavarana-puja-shakti-puja.html -> uscp-navavarana-puja-and-shakti-puja.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-meanings-of-channels-which-are.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-guru-mantra-and-its-content.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-pancadasi-mantra-most-secret.html
