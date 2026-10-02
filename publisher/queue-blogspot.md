@@ -40,8 +40,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-guru-mantra-and-its-content.html -> uscp-guru-mantra-and-its-content.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-pancadasi-mantra-most-secret.html -> uscp-pancadasi-mantra.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-prayer-to-lord-ganesha.html -> uscp-prayer-to-lord-ganesha.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-surya-mantra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-lighting-lamp.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-surya-mantra.html -> uscp-surya-mantra.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-lighting-lamp.html -> uscp-lighting-the-lamp.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-44-meditations-of-sri-chakra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-worshipping-bindu-and-trikona.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-viraja-homa.html
