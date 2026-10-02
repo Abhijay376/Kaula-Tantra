@@ -38,8 +38,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-navaavarana-puja-shakti-puja.html -> uscp-navavarana-puja-and-shakti-puja.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-meanings-of-channels-which-are.html -> uscp-meaning-of-mantras-as-channels.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-guru-mantra-and-its-content.html -> uscp-guru-mantra-and-its-content.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-pancadasi-mantra-most-secret.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-prayer-to-lord-ganesha.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-pancadasi-mantra-most-secret.html -> uscp-pancadasi-mantra.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-prayer-to-lord-ganesha.html -> uscp-prayer-to-lord-ganesha.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-surya-mantra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-lighting-lamp.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-44-meditations-of-sri-chakra.html
