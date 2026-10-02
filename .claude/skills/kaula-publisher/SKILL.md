@@ -1,6 +1,6 @@
 ---
 name: kaula-publisher
-description: Publish 2 Guruji teaching posts a day on the Kaula Devi Marga site (plain HTML repo Abhijay376/Kaula-Tantra). Use when asked to "run the publisher", "publish today's posts" or "do the next 2 blogs".
+description: Publish 5 Guruji teaching posts a day on the Kaula Devi Marga site (plain HTML repo Abhijay376/Kaula-Tantra). Use when asked to "run the publisher", "publish today's posts" or "do the next 5 blogs".
 ---
 
 # Kaula Devi Marga publisher
@@ -10,8 +10,9 @@ Site = plain HTML files in the repo root. No build step. Every page ends with
 
 Read `project-context.md` first if present. Lineage facts are fixed.
 
-## Daily job: 2 posts
-1. Open `publisher/queue-blogspot.md`. Take the first 2 unticked lines.
+## Daily job: 5 posts
+1. Open `publisher/queue-blogspot.md`. Take the first 5 unticked lines.
+   Commit and push after every 2 posts (and after the last one), so finished posts are already live if a run stops.
    When every Blogspot line is ticked, switch to the forum (see Forum phase).
 2. For each URL:
    a. Open the page. Take ONLY the post body. Never the comments, sidebar or menus.
@@ -38,7 +39,7 @@ Read `project-context.md` first if present. Lineage facts are fixed.
    g. Add the page to `sitemap.xml` (create it if missing).
 3. Tick the queue lines: `- [x] guruji | URL -> slug.html`.
 4. Commit: `teachings: <title 1>, <title 2>` and push to main. Cloudflare publishes it.
-5. Reply with the 2 live links and anything skipped.
+5. Reply with the 5 live links and anything skipped.
 
 ## Keywords
 Search Google for 2-3 candidate terms for the topic (Claude in Chrome). Read the Keyword Surfer
@@ -63,7 +64,7 @@ Footer strip: "Kaula Devi Marga · from the teachings of Sri Amritananda Natha S
 
 ## Forum phase (after Blogspot is done)
 List all threads with the forum API: `https://forum.amritananda.org/api/discussions?sort=createdAt&page[limit]=50&page[offset]=N`.
-Work oldest first, 2 per day. Keep the list in `publisher/queue-forum.md`.
+Work oldest first, 5 per day. Keep the list in `publisher/queue-forum.md`.
 Skip threads that are only admin or help: course sign-ups and batch dates, registration, "next steps", troubleshooting,
 downloads not working, forum rules, how to flag or message, keyboard/typing/dictionary tools, regional "anyone from X" posts.
 - Posts by Guruji (talks, commentaries, LSN commentary series) -> guruji type, credit Guruji and the forum.
