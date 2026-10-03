@@ -47,8 +47,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-viraja-homa.html -> uscp-viraja-homa.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-dealing-with-obstacles-to-puja.html -> uscp-dealing-with-obstacles-to-puja.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-vajra-panjara-nyasam-diamond-cage.html -> uscp-vajra-panjara-nyasam-diamond-cage.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-vagdevata-nyasa-ajna-chakra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-moola-mantra-nyasa-maha-shodha.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-vagdevata-nyasa-ajna-chakra.html -> uscp-vagdevata-nyasa-ajna-chakra-pancadasi-nyasa.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-moola-mantra-nyasa-maha-shodha.html -> uscp-moola-mantra-nyasa-maha-shodha-nyasa.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-sri-kramam-samanargya-preparation.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-agni-kalas-surya-kalavahana.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-kalas-of-moon-kama-kala-hagmsah.html

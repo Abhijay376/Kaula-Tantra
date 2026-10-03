@@ -18,3 +18,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-01 | uscp-brief-glimpse-at-the-sri-kramam | "sri kramam" | no live keyword tool in this run, chosen for search intent
 2026-10-02 | uscp-dealing-with-obstacles-to-puja | "obstacles to puja" | no live keyword tool in this run, chosen for search intent
 2026-10-02 | uscp-vajra-panjara-nyasam-diamond-cage | "vajra panjara nyasa" | no live keyword tool in this run, chosen for search intent
+2026-10-03 | uscp-vagdevata-nyasa-ajna-chakra-pancadasi-nyasa | "panchadashi nyasa" | no live keyword tool in this run, chosen for search intent
+2026-10-03 | uscp-moola-mantra-nyasa-maha-shodha-nyasa | "moola mantra nyasa" | no live keyword tool in this run, chosen for search intent
