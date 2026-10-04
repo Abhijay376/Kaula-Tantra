@@ -49,8 +49,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-vajra-panjara-nyasam-diamond-cage.html -> uscp-vajra-panjara-nyasam-diamond-cage.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-vagdevata-nyasa-ajna-chakra.html -> uscp-vagdevata-nyasa-ajna-chakra-pancadasi-nyasa.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-moola-mantra-nyasa-maha-shodha.html -> uscp-moola-mantra-nyasa-maha-shodha-nyasa.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-sri-kramam-samanargya-preparation.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-agni-kalas-surya-kalavahana.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-sri-kramam-samanargya-preparation.html -> uscp-sri-kramam-samanargya-viseshargya.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-agni-kalas-surya-kalavahana.html -> uscp-agni-kalas-surya-kalavahana.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-kalas-of-moon-kama-kala-hagmsah.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-jiva-brahma-visnu-rudra-iswara.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-panca-brahma-mantras-brahma-visnu.html
