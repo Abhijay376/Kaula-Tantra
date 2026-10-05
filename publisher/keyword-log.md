@@ -22,3 +22,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-03 | uscp-moola-mantra-nyasa-maha-shodha-nyasa | "moola mantra nyasa" | no live keyword tool in this run, chosen for search intent
 2026-10-04 | uscp-sri-kramam-samanargya-viseshargya | "sri kramam" | no live keyword tool in this run, chosen for search intent
 2026-10-04 | uscp-agni-kalas-surya-kalavahana | "agni kalas" | no live keyword tool in this run, chosen for search intent
+2026-10-05 | uscp-moon-kalas-kama-kala-hamsah | "moon kalas" | no live keyword tool in this run, chosen for search intent
+2026-10-05 | uscp-jiva-brahma-vishnu-rudra-ishvara-sadashiva-kalas | "brahma vishnu rudra kalas" | no live keyword tool in this run, chosen for search intent
