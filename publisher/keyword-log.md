@@ -24,3 +24,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-04 | uscp-agni-kalas-surya-kalavahana | "agni kalas" | no live keyword tool in this run, chosen for search intent
 2026-10-05 | uscp-moon-kalas-kama-kala-hamsah | "moon kalas" | no live keyword tool in this run, chosen for search intent
 2026-10-05 | uscp-jiva-brahma-vishnu-rudra-ishvara-sadashiva-kalas | "brahma vishnu rudra kalas" | no live keyword tool in this run, chosen for search intent
+2026-10-06 | uscp-panca-brahma-mantras | "panca brahma mantras" | no live keyword tool in this run, chosen for search intent
+2026-10-06 | uscp-devi-kala-amrita-kalavahana | "amrita kalavahana" | no live keyword tool in this run, chosen for search intent
