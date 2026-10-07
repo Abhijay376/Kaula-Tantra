@@ -26,3 +26,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-05 | uscp-jiva-brahma-vishnu-rudra-ishvara-sadashiva-kalas | "brahma vishnu rudra kalas" | no live keyword tool in this run, chosen for search intent
 2026-10-06 | uscp-panca-brahma-mantras | "panca brahma mantras" | no live keyword tool in this run, chosen for search intent
 2026-10-06 | uscp-devi-kala-amrita-kalavahana | "amrita kalavahana" | no live keyword tool in this run, chosen for search intent
+2026-10-07 | uscp-lalita-kramam-64-intimate-offerings | "lalita kramam" | no live keyword tool in this run, chosen for search intent
+2026-10-07 | uscp-64-intimate-acts-of-worship | "64 intimate offerings" | no live keyword tool in this run, chosen for search intent
