@@ -57,8 +57,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-devi-kala-amrita-kalavahana-amrita.html -> uscp-devi-kala-amrita-kalavahana.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-lalita-kramam-64-intimate-offerings.html -> uscp-lalita-kramam-64-intimate-offerings.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-64-intimate-acts-of-worship.html -> uscp-64-intimate-acts-of-worship.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/the-five-offerings-to-devi.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-ten-hand-gestures-angadevatas.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/the-five-offerings-to-devi.html -> uscp-five-offerings-to-devi.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-ten-hand-gestures-angadevatas.html -> uscp-ten-hand-gestures-angadevatas-nitya-devatas.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guru-mandala-puja-caturyatana-puja.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-panca-upacara-puja-kama-kala.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/awareness-consciousness-spiritual-state.html
