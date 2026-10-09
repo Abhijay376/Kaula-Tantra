@@ -30,3 +30,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-07 | uscp-64-intimate-acts-of-worship | "64 intimate offerings" | no live keyword tool in this run, chosen for search intent
 2026-10-08 | uscp-five-offerings-to-devi | "panca upacara puja" | no live keyword tool in this run, chosen for search intent
 2026-10-08 | uscp-ten-hand-gestures-angadevatas-nitya-devatas | "nitya devatas" | no live keyword tool in this run, chosen for search intent
+2026-10-09 | uscp-guru-mandala-caturyatana-navavarana-puja | "navavarana puja" | no live keyword tool in this run, chosen for search intent
+2026-10-09 | uscp-panca-upacara-kama-kala-bali-danam | "panca upacara puja" | no live keyword tool in this run, chosen for search intent
