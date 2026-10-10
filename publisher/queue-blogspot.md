@@ -61,8 +61,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-ten-hand-gestures-angadevatas.html -> uscp-ten-hand-gestures-angadevatas-nitya-devatas.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guru-mandala-puja-caturyatana-puja.html -> uscp-guru-mandala-caturyatana-navavarana-puja.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-panca-upacara-puja-kama-kala.html -> uscp-panca-upacara-kama-kala-bali-danam.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/awareness-consciousness-spiritual-state.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-parts-1-2-3.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/awareness-consciousness-spiritual-state.html -> unified-consciousness-and-ganapathi-tarpanam.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-parts-1-2-3.html -> chidagni-gurujis-early-life-parts-1-2-3.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-4.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-5.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-6.html
