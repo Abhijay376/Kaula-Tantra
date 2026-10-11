@@ -63,8 +63,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/uscp-panca-upacara-puja-kama-kala.html -> uscp-panca-upacara-kama-kala-bali-danam.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/awareness-consciousness-spiritual-state.html -> unified-consciousness-and-ganapathi-tarpanam.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-parts-1-2-3.html -> chidagni-gurujis-early-life-parts-1-2-3.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-4.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-5.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-4.html -> chidagni-part-4-student-years-nuclear-physics.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-5.html -> chidagni-part-5-career-tifr-hanuman-temple.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-6.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-7.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-8_21.html
