@@ -65,8 +65,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-parts-1-2-3.html -> chidagni-gurujis-early-life-parts-1-2-3.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-4.html -> chidagni-part-4-student-years-nuclear-physics.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-5.html -> chidagni-part-5-career-tifr-hanuman-temple.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-6.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-7.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-6.html -> chidagni-part-6-spiritual-experiences-saraswati.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-7.html -> chidagni-part-7-guru-darshanam-two-gurus.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-8_21.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-9.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-10.html
