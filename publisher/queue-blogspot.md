@@ -67,8 +67,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-5.html -> chidagni-part-5-career-tifr-hanuman-temple.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-6.html -> chidagni-part-6-spiritual-experiences-saraswati.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-7.html -> chidagni-part-7-guru-darshanam-two-gurus.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-8_21.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-9.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-8_21.html -> chidagni-part-8-zambia-lalita-devi-temple.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-9.html -> chidagni-part-9-quitting-job-sagara-giri-pilgrimage.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-10.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-11.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-restrictions_24.html
