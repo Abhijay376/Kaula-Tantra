@@ -40,3 +40,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-12 | chidagni-part-7-guru-darshanam-two-gurus | "Guru Garu Sri Amritananda Natha initiation" | no live keyword tool in this run
 2026-10-13 | chidagni-part-8-zambia-lalita-devi-temple | "Guruji Zambia Lalita Devi temple Lusaka" | no live keyword tool in this run
 2026-10-13 | chidagni-part-9-quitting-job-sagara-giri-pilgrimage | "Sagara Giri Durga temple Guruji Sri Chakra" | no live keyword tool in this run
+2026-10-14 | chidagni-part-10-sri-devi-yaagam-1983 | "Sri Devi Yaagam 1983 Visakhapatnam" | no live keyword tool in this run
+2026-10-14 | chidagni-part-11-devipuram-kamakhya-vision | "how Devipuram began Kamakhya" | no live keyword tool in this run
