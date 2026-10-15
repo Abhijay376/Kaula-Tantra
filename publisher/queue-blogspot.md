@@ -71,8 +71,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-9.html -> chidagni-part-9-quitting-job-sagara-giri-pilgrimage.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-10.html -> chidagni-part-10-sri-devi-yaagam-1983.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-11.html -> chidagni-part-11-devipuram-kamakhya-vision.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-restrictions_24.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-humility-and-compassion.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-restrictions_24.html -> against-the-gatekeeping-of-the-mother.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-humility-and-compassion.html -> the-guru-who-hides-his-miracles.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-and-gender-restrictions.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/past-lives.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/self-directed-learning.html
