@@ -44,3 +44,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-14 | chidagni-part-11-devipuram-kamakhya-vision | "how Devipuram began Kamakhya" | no live keyword tool in this run
 2026-10-15 | against-the-gatekeeping-of-the-mother | "Sri Vidya caste restrictions Guruji" | no live keyword tool in this run
 2026-10-15 | the-guru-who-hides-his-miracles | "Guruji Amritananda Natha healing story" | no live keyword tool in this run
+2026-10-16 | finding-guruji-aiyas-entry-into-srividya | "Sri Vidya initiation caste" | no live keyword tool in this run
+2026-10-16 | self-directed-learning-and-the-devis-grace | "self-directed learning sadhana" | no live keyword tool in this run

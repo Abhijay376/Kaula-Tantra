@@ -73,9 +73,9 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chidagni-part-11.html -> chidagni-part-11-devipuram-kamakhya-vision.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-restrictions_24.html -> against-the-gatekeeping-of-the-mother.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-humility-and-compassion.html -> the-guru-who-hides-his-miracles.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-and-gender-restrictions.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/past-lives.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/self-directed-learning.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-and-gender-restrictions.html -> finding-guruji-aiyas-entry-into-srividya.html
+- [x] skipped (video only) | https://amritananda-natha-saraswati.blogspot.com/2016/04/past-lives.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/self-directed-learning.html -> self-directed-learning-and-the-devis-grace.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chakra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/better-life-for-you.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/abhishekam-to-ashta-matrikas-in-sri.html
