@@ -46,3 +46,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-15 | the-guru-who-hides-his-miracles | "Guruji Amritananda Natha healing story" | no live keyword tool in this run
 2026-10-16 | finding-guruji-aiyas-entry-into-srividya | "Sri Vidya initiation caste" | no live keyword tool in this run
 2026-10-16 | self-directed-learning-and-the-devis-grace | "self-directed learning sadhana" | no live keyword tool in this run
+2026-10-17 | chakra-sharing-magic-link-bondage-freedom | "Sri Vidya chakra sharing love freedom" | no live keyword tool in this run
+2026-10-17 | two-goals-of-spiritual-evolution | "spiritual evolution goals" | no live keyword tool in this run

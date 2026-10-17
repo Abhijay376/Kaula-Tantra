@@ -76,8 +76,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/caste-and-gender-restrictions.html -> finding-guruji-aiyas-entry-into-srividya.html
 - [x] skipped (video only) | https://amritananda-natha-saraswati.blogspot.com/2016/04/past-lives.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/self-directed-learning.html -> self-directed-learning-and-the-devis-grace.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chakra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/better-life-for-you.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/chakra.html -> chakra-sharing-magic-link-bondage-freedom.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/better-life-for-you.html -> two-goals-of-spiritual-evolution.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/abhishekam-to-ashta-matrikas-in-sri.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gayatri-initiation.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/devipuram-sadhana-kshetram.html
