@@ -80,8 +80,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/better-life-for-you.html -> two-goals-of-spiritual-evolution.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/abhishekam-to-ashta-matrikas-in-sri.html -> ashta-matrikas-in-the-sri-chakra.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gayatri-initiation.html -> gayatri-and-brahmopadesam-for-all.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/devipuram-sadhana-kshetram.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/mantra-yoga.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/devipuram-sadhana-kshetram.html -> devipuram-sadhana-kshetram.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/mantra-yoga.html -> mantra-yoga-eight-limbs.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/lalitha-in-india.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-message-on-2010.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guru-purnima-2010-message.html
