@@ -52,3 +52,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-18 | gayatri-and-brahmopadesam-for-all | "gayatri initiation for women" | no live keyword tool in this run
 2026-10-19 | devipuram-sadhana-kshetram | "Devipuram shakti sadhana" | no live keyword tool in this run
 2026-10-19 | mantra-yoga-eight-limbs | "mantra yoga eight limbs" | no live keyword tool in this run
+2026-10-20 | lalita-light-of-life-mother-of-liberation | "Goddess Lalita" | no live keyword tool in this run
+2026-10-20 | gurujis-2010-message-sri-guru-padukas | "Sri Guru Padukas" | no live keyword tool in this run

@@ -82,8 +82,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gayatri-initiation.html -> gayatri-and-brahmopadesam-for-all.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/devipuram-sadhana-kshetram.html -> devipuram-sadhana-kshetram.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/mantra-yoga.html -> mantra-yoga-eight-limbs.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/lalitha-in-india.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-message-on-2010.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/lalitha-in-india.html -> lalita-light-of-life-mother-of-liberation.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-message-on-2010.html -> gurujis-2010-message-sri-guru-padukas.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guru-purnima-2010-message.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-about-mantras.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-with-arrogant-woman.html
