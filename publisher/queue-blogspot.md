@@ -84,8 +84,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/mantra-yoga.html -> mantra-yoga-eight-limbs.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/lalitha-in-india.html -> lalita-light-of-life-mother-of-liberation.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-message-on-2010.html -> gurujis-2010-message-sri-guru-padukas.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guru-purnima-2010-message.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-about-mantras.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guru-purnima-2010-message.html -> guru-purnima-2010-message-love-and-freedom.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-about-mantras.html -> guruji-answers-mantra-healing-kundalini.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-with-arrogant-woman.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-various.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/a-note-on-sadhana-antarmukha-samaradhya.html
