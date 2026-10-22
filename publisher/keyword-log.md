@@ -56,3 +56,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-20 | gurujis-2010-message-sri-guru-padukas | "Sri Guru Padukas" | no live keyword tool in this run
 2026-10-21 | guru-purnima-2010-message-love-and-freedom | "Guru Purnima message" | no live keyword tool in this run
 2026-10-21 | guruji-answers-mantra-healing-kundalini | "mantra healing kundalini" | no live keyword tool in this run
+2026-10-22 | guruji-on-guru-mantras-and-his-name | "guru mantra name" | no live keyword tool in this run, chosen for search intent
+2026-10-22 | guruji-answers-mudras-khadgamala-sri-chakra | "khadgamala sri chakra" | no live keyword tool in this run, chosen for search intent

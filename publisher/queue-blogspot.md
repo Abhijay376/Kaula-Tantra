@@ -86,8 +86,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/gurujis-message-on-2010.html -> gurujis-2010-message-sri-guru-padukas.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/guru-purnima-2010-message.html -> guru-purnima-2010-message-love-and-freedom.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-about-mantras.html -> guruji-answers-mantra-healing-kundalini.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-with-arrogant-woman.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-various.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-with-arrogant-woman.html -> guruji-on-guru-mantras-and-his-name.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-various.html -> guruji-answers-mudras-khadgamala-sri-chakra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/a-note-on-sadhana-antarmukha-samaradhya.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/transformation-with-sri-vidya.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/radha-and-krishna.html
