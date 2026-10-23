@@ -58,3 +58,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-21 | guruji-answers-mantra-healing-kundalini | "mantra healing kundalini" | no live keyword tool in this run
 2026-10-22 | guruji-on-guru-mantras-and-his-name | "guru mantra name" | no live keyword tool in this run, chosen for search intent
 2026-10-22 | guruji-answers-mudras-khadgamala-sri-chakra | "khadgamala sri chakra" | no live keyword tool in this run, chosen for search intent
+2026-10-23 | antarmukha-samaradhya-sadhana-note | "antarmukha samaradhya" | no live keyword tool in this run, chosen for search intent
+2026-10-23 | transformation-with-sri-vidya | "transformation with sri vidya" | no live keyword tool in this run, chosen for search intent
