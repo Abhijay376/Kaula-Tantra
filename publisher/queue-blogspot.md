@@ -90,8 +90,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/q-various.html -> guruji-answers-mudras-khadgamala-sri-chakra.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/a-note-on-sadhana-antarmukha-samaradhya.html -> antarmukha-samaradhya-sadhana-note.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/transformation-with-sri-vidya.html -> transformation-with-sri-vidya.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/radha-and-krishna.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-is-compassion-all-about.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/radha-and-krishna.html -> radha-krishna-love-story-inner-meaning.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-is-compassion-all-about.html -> what-is-compassion-all-about.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/toss.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/noble-goals.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/bala-meditation-guide.html
