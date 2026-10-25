@@ -62,3 +62,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-23 | transformation-with-sri-vidya | "transformation with sri vidya" | no live keyword tool in this run, chosen for search intent
 2026-10-24 | radha-krishna-love-story-inner-meaning | "radha krishna love story" | no live keyword tool in this run, chosen for search intent
 2026-10-24 | what-is-compassion-all-about | "what is compassion? a teaching from guruji" | no live keyword tool in this run, chosen for search intent
+2026-10-25 | toss-a-coin-taste-of-samadhi | "taste of samadhi" | no live keyword tool in this run, chosen for search intent
+2026-10-25 | noble-goals-vision-mission-inner-transformation | "noble goals vision and inner transformation" | no live keyword tool in this run, chosen for search intent
