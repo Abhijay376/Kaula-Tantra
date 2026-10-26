@@ -94,8 +94,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-is-compassion-all-about.html -> what-is-compassion-all-about.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/toss.html -> toss-a-coin-taste-of-samadhi.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/noble-goals.html -> noble-goals-vision-mission-inner-transformation.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/bala-meditation-guide.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/sri-mahavarahi-mediation.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/bala-meditation-guide.html -> bala-meditation-guide.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/sri-mahavarahi-mediation.html -> sri-maha-varahi-meditation.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/panchadashi-mantra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/maha-shodashi-mahamantra-new-view.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-is-pakodi-loop.html
