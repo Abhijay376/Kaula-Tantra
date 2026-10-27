@@ -38,9 +38,9 @@
   }
 
   // Home link, anchor text "Kaula Tantric", first item in every page's menu.
-  if (nav && !nav.querySelector('a[href="index.html"]')) {
+  if (nav && !nav.querySelector('a[href="/"]')) {
     var home = document.createElement('a');
-    home.href = 'index.html';
+    home.href = '/';
     home.textContent = 'Kaula Tantric';
     nav.insertBefore(home, nav.firstChild);
   }
