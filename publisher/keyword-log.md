@@ -66,3 +66,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-25 | noble-goals-vision-mission-inner-transformation | "noble goals vision and inner transformation" | no live keyword tool in this run, chosen for search intent
 2026-10-26 | bala-meditation-guide | "bala mantra meditation" | no live keyword tool in this run, chosen for search intent
 2026-10-26 | sri-maha-varahi-meditation | "sri maha varahi meditation" | no live keyword tool in this run, chosen for search intent
+2026-10-27 | panchadashi-mantra-meaning-37-tattvas | "panchadashi mantra meaning" | no live keyword tool in this run, chosen for search intent
+2026-10-27 | maha-shodashi-mantra-new-view | "maha shodashi mantra" | no live keyword tool in this run, chosen for search intent

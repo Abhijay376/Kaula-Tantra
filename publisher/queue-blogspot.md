@@ -96,8 +96,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/noble-goals.html -> noble-goals-vision-mission-inner-transformation.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/bala-meditation-guide.html -> bala-meditation-guide.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/sri-mahavarahi-mediation.html -> sri-maha-varahi-meditation.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/panchadashi-mantra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/maha-shodashi-mahamantra-new-view.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/panchadashi-mantra.html -> panchadashi-mantra-meaning-37-tattvas.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/maha-shodashi-mahamantra-new-view.html -> maha-shodashi-mantra-new-view.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-is-pakodi-loop.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/from-guru-pournami-message-2006.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/new-breathing-technique.html
