@@ -68,3 +68,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-26 | sri-maha-varahi-meditation | "sri maha varahi meditation" | no live keyword tool in this run, chosen for search intent
 2026-10-27 | panchadashi-mantra-meaning-37-tattvas | "panchadashi mantra meaning" | no live keyword tool in this run, chosen for search intent
 2026-10-27 | maha-shodashi-mantra-new-view | "maha shodashi mantra" | no live keyword tool in this run, chosen for search intent
+2026-10-28 | pakodi-loop-gurujis-time-management-joke | "pakodi loop" | no live keyword tool in this run, chosen for search intent
+2026-10-28 | guru-purnima-message-2006-five-daily-gifts | "guru purnima message" | no live keyword tool in this run, chosen for search intent

@@ -98,8 +98,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/sri-mahavarahi-mediation.html -> sri-maha-varahi-meditation.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/panchadashi-mantra.html -> panchadashi-mantra-meaning-37-tattvas.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/04/maha-shodashi-mahamantra-new-view.html -> maha-shodashi-mantra-new-view.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-is-pakodi-loop.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/from-guru-pournami-message-2006.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/what-is-pakodi-loop.html -> pakodi-loop-gurujis-time-management-joke.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/from-guru-pournami-message-2006.html -> guru-purnima-message-2006-five-daily-gifts.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/new-breathing-technique.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/the-use-of-ah-ahm-vs-am-ah-15-nd-16th.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/diwali-2003-message-from-guruji.html
