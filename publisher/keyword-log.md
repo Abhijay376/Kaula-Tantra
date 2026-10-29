@@ -70,3 +70,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-27 | maha-shodashi-mantra-new-view | "maha shodashi mantra" | no live keyword tool in this run, chosen for search intent
 2026-10-28 | pakodi-loop-gurujis-time-management-joke | "pakodi loop" | no live keyword tool in this run, chosen for search intent
 2026-10-28 | guru-purnima-message-2006-five-daily-gifts | "guru purnima message" | no live keyword tool in this run, chosen for search intent
+2026-10-29 | continuous-breathing-sadhana-revealed-by-devi | "continuous breathing sadhana" | no live keyword tool in this run, chosen for search intent
+2026-10-29 | aham-kama-kala-secret-of-the-final-bija | "aham kama kala" | no live keyword tool in this run, chosen for search intent
