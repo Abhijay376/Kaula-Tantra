@@ -72,3 +72,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-28 | guru-purnima-message-2006-five-daily-gifts | "guru purnima message" | no live keyword tool in this run, chosen for search intent
 2026-10-29 | continuous-breathing-sadhana-revealed-by-devi | "continuous breathing sadhana" | no live keyword tool in this run, chosen for search intent
 2026-10-29 | aham-kama-kala-secret-of-the-final-bija | "aham kama kala" | no live keyword tool in this run, chosen for search intent
+2026-10-30 | diwali-2003-message-from-guruji | "guruji diwali message" | no live keyword tool in this run, chosen for search intent
+2026-10-30 | maha-shiva-ratri-lingodbhava-story | "maha shivaratri story" | no live keyword tool in this run, chosen for search intent

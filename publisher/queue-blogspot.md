@@ -102,8 +102,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/from-guru-pournami-message-2006.html -> guru-purnima-message-2006-five-daily-gifts.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/new-breathing-technique.html -> continuous-breathing-sadhana-revealed-by-devi.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/the-use-of-ah-ahm-vs-am-ah-15-nd-16th.html -> aham-kama-kala-secret-of-the-final-bija.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/diwali-2003-message-from-guruji.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/maha-siva-ratri.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/diwali-2003-message-from-guruji.html -> diwali-2003-message-from-guruji.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/maha-siva-ratri.html -> maha-shiva-ratri-lingodbhava-story.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/hug-me-teacher.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/message-from-guruji-on-triveni-kalpam.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/conversations-on-guru-garus-passing-away.html
