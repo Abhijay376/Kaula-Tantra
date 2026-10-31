@@ -74,3 +74,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-29 | aham-kama-kala-secret-of-the-final-bija | "aham kama kala" | no live keyword tool in this run, chosen for search intent
 2026-10-30 | diwali-2003-message-from-guruji | "guruji diwali message" | no live keyword tool in this run, chosen for search intent
 2026-10-30 | maha-shiva-ratri-lingodbhava-story | "maha shivaratri story" | no live keyword tool in this run, chosen for search intent
+2026-10-31 | hug-me-teacher-gurujis-poem-on-the-guru | "hug me teacher" | no live keyword tool in this run, chosen for search intent
+2026-10-31 | triveni-kalpam-awakening-inner-divinity-through-puja | "triveni kalpam" | no live keyword tool in this run, chosen for search intent
