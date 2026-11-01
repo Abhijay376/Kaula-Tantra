@@ -106,8 +106,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/maha-siva-ratri.html -> maha-shiva-ratri-lingodbhava-story.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/hug-me-teacher.html -> hug-me-teacher-gurujis-poem-on-the-guru.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/message-from-guruji-on-triveni-kalpam.html -> triveni-kalpam-awakening-inner-divinity-through-puja.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/conversations-on-guru-garus-passing-away.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/i-saw-her.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/conversations-on-guru-garus-passing-away.html -> guru-poornima-guruji-on-his-gurus-passing.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/i-saw-her.html -> i-saw-her-guruji-on-seeing-the-goddess.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/listen-to-others.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/for-gurupournami.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/you-are-born-to-be-free.html

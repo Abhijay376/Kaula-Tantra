@@ -76,3 +76,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-10-30 | maha-shiva-ratri-lingodbhava-story | "maha shivaratri story" | no live keyword tool in this run, chosen for search intent
 2026-10-31 | hug-me-teacher-gurujis-poem-on-the-guru | "hug me teacher" | no live keyword tool in this run, chosen for search intent
 2026-10-31 | triveni-kalpam-awakening-inner-divinity-through-puja | "triveni kalpam" | no live keyword tool in this run, chosen for search intent
+2026-11-01 | guru-poornima-guruji-on-his-gurus-passing.html | "guru poornima guruji" | no live keyword tool in this run, chosen for search intent
+2026-11-01 | i-saw-her-guruji-on-seeing-the-goddess.html | "i saw her guruji" | no live keyword tool in this run, chosen for search intent
