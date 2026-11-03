@@ -110,8 +110,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/i-saw-her.html -> i-saw-her-guruji-on-seeing-the-goddess.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/listen-to-others.html -> listening-as-love-guruji-on-listening.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/for-gurupournami.html -> gurupournami-2006-key-of-love-in-tune-of-harmony.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/you-are-born-to-be-free.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/better-to-do-something.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/you-are-born-to-be-free.html -> your-body-as-sri-chakra-born-to-be-free.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/better-to-do-something.html -> better-to-do-something-guruji-on-starting-practice.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/my-attitude-towards-life.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/12/for-i-am-divided-for-loves-sake-for.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-siri-jotis.html
