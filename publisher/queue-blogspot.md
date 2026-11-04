@@ -112,9 +112,9 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/for-gurupournami.html -> gurupournami-2006-key-of-love-in-tune-of-harmony.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/you-are-born-to-be-free.html -> your-body-as-sri-chakra-born-to-be-free.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/better-to-do-something.html -> better-to-do-something-guruji-on-starting-practice.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/my-attitude-towards-life.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/12/for-i-am-divided-for-loves-sake-for.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-siri-jotis.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/my-attitude-towards-life.html -> guruji-my-attitude-towards-life-celebrate-not-cry.html
+- [x] skipped | https://amritananda-natha-saraswati.blogspot.com/2016/12/for-i-am-divided-for-loves-sake-for.html (text is from Aleister Crowley's Book of the Law, not Guruji; owner to decide)
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-siri-jotis.html -> devipuram-siri-jotis-abundant-light-team-event.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-amma-jataras.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/a-summary-of-queries-of-people.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/gurujis-handwriting.html

@@ -82,3 +82,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-02 | gurupournami-2006-key-of-love-in-tune-of-harmony.html | "gurupournami key of love" | no live keyword tool in this run, chosen for search intent
 2026-11-03 | your-body-as-sri-chakra-born-to-be-free.html | "body as sri chakra" | no live keyword tool in this run, chosen for search intent
 2026-11-03 | better-to-do-something-guruji-on-starting-practice.html | "spiritual practice begin today" | no live keyword tool in this run, chosen for search intent
+2026-11-04 | guruji-my-attitude-towards-life-celebrate-not-cry.html | "guruji attitude towards life" | no live keyword tool in this run, chosen for search intent
+2026-11-04 | devipuram-siri-jotis-abundant-light-team-event.html | "siri jotis" | no live keyword tool in this run, chosen for search intent
