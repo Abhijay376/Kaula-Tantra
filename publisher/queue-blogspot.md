@@ -115,8 +115,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/04/my-attitude-towards-life.html -> guruji-my-attitude-towards-life-celebrate-not-cry.html
 - [x] skipped | https://amritananda-natha-saraswati.blogspot.com/2016/12/for-i-am-divided-for-loves-sake-for.html (text is from Aleister Crowley's Book of the Law, not Guruji; owner to decide)
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-siri-jotis.html -> devipuram-siri-jotis-abundant-light-team-event.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-amma-jataras.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/a-summary-of-queries-of-people.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-amma-jataras.html -> devipuram-amma-jataras-festivals-of-the-living-goddess.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/a-summary-of-queries-of-people.html -> guruji-practical-remedies-for-common-life-problems.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/gurujis-handwriting.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/5-hapiness-sutras.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/when-ego-breaks-down.html
