@@ -117,9 +117,9 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-siri-jotis.html -> devipuram-siri-jotis-abundant-light-team-event.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-amma-jataras.html -> devipuram-amma-jataras-festivals-of-the-living-goddess.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/a-summary-of-queries-of-people.html -> guruji-practical-remedies-for-common-life-problems.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/gurujis-handwriting.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/5-hapiness-sutras.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/when-ego-breaks-down.html
+- [x] skipped (images only) | https://amritananda-natha-saraswati.blogspot.com/2016/11/gurujis-handwriting.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/5-hapiness-sutras.html -> guruji-five-happiness-sutras.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/when-ego-breaks-down.html -> when-ego-breaks-down-guruji-four-steps.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/dattatreya.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/uchishta-ganapathy.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rebirth-of-who.html
