@@ -120,8 +120,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] skipped (images only) | https://amritananda-natha-saraswati.blogspot.com/2016/11/gurujis-handwriting.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/5-hapiness-sutras.html -> guruji-five-happiness-sutras.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/when-ego-breaks-down.html -> when-ego-breaks-down-guruji-four-steps.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/dattatreya.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/uchishta-ganapathy.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/dattatreya.html -> dattatreya-guruji-inner-meaning-of-datta.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/uchishta-ganapathy.html -> ucchishta-ganapati-guruji-the-lord-who-accepts-everything.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rebirth-of-who.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/acting-in-calamities.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sadguru.html

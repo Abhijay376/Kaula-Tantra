@@ -86,3 +86,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-04 | devipuram-siri-jotis-abundant-light-team-event.html | "siri jotis" | no live keyword tool in this run, chosen for search intent
 2026-11-05 | devipuram-amma-jataras-festivals-of-the-living-goddess.html | "devipuram amma jataras" | no live keyword tool in this run, chosen for search intent
 2026-11-05 | guruji-practical-remedies-for-common-life-problems.html | "guruji remedies for life problems" | no live keyword tool in this run, chosen for search intent
+2026-11-07 | dattatreya-guruji-inner-meaning-of-datta.html | "dattatreya inner meaning" | no live keyword tool in this run, chosen for search intent
+2026-11-07 | ucchishta-ganapati-guruji-the-lord-who-accepts-everything.html | "ucchishta ganapati" | no live keyword tool in this run, chosen for search intent
