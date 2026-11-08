@@ -88,3 +88,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-05 | guruji-practical-remedies-for-common-life-problems.html | "guruji remedies for life problems" | no live keyword tool in this run, chosen for search intent
 2026-11-07 | dattatreya-guruji-inner-meaning-of-datta.html | "dattatreya inner meaning" | no live keyword tool in this run, chosen for search intent
 2026-11-07 | ucchishta-ganapati-guruji-the-lord-who-accepts-everything.html | "ucchishta ganapati" | no live keyword tool in this run, chosen for search intent
+2026-11-08 | rebirth-of-who-guruji-on-rebirth-and-change.html | "guruji on rebirth" | no live keyword tool in this run, chosen for search intent
+2026-11-08 | acting-in-calamities-guruji-on-preparation-and-crisis.html | "how to act in a crisis meditation" | no live keyword tool in this run, chosen for search intent

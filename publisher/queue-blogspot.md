@@ -122,8 +122,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/when-ego-breaks-down.html -> when-ego-breaks-down-guruji-four-steps.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/dattatreya.html -> dattatreya-guruji-inner-meaning-of-datta.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/uchishta-ganapathy.html -> ucchishta-ganapati-guruji-the-lord-who-accepts-everything.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rebirth-of-who.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/acting-in-calamities.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rebirth-of-who.html -> rebirth-of-who-guruji-on-rebirth-and-change.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/acting-in-calamities.html -> acting-in-calamities-guruji-on-preparation-and-crisis.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sadguru.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-achieved-by-devotees-of-goddess.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/why-guruji-could-see-deities-that-we.html
