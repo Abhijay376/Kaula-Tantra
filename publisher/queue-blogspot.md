@@ -126,9 +126,9 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/acting-in-calamities.html -> acting-in-calamities-guruji-on-preparation-and-crisis.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sadguru.html -> guru-and-sadguru-guruji-on-the-true-guru.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-achieved-by-devotees-of-goddess.html -> what-devotees-of-goddess-sri-attain-gurujis-six-points.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/why-guruji-could-see-deities-that-we.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/acharas-in-sri-vidya.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/you-have-all-freedom-in-universe.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/why-guruji-could-see-deities-that-we.html -> why-guruji-could-see-deities-aiya-on-perception.html
+- [x] skipped (images only) | https://amritananda-natha-saraswati.blogspot.com/2016/11/acharas-in-sri-vidya.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/you-have-all-freedom-in-universe.html -> freedom-in-tantra-guruji-on-diet-dress-and-rules.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-kundalini.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/memory-siddhi.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/aggregates-of-life.html

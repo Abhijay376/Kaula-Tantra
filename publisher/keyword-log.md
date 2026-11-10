@@ -92,3 +92,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-08 | acting-in-calamities-guruji-on-preparation-and-crisis.html | "how to act in a crisis meditation" | no live keyword tool in this run, chosen for search intent
 2026-11-09 | guru-and-sadguru-guruji-on-the-true-guru.html | "guru and sadguru" | no live keyword tool in this run, chosen for search intent
 2026-11-09 | what-devotees-of-goddess-sri-attain-gurujis-six-points.html | "devotees of goddess sri" | no live keyword tool in this run, chosen for search intent
+2026-11-10 | why-guruji-could-see-deities-aiya-on-perception.html | "why could guruji see deities" | no live keyword tool in this run, chosen for search intent
+2026-11-10 | freedom-in-tantra-guruji-on-diet-dress-and-rules.html | "freedom in tantra" | no live keyword tool in this run, chosen for search intent
