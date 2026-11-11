@@ -129,8 +129,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/why-guruji-could-see-deities-that-we.html -> why-guruji-could-see-deities-aiya-on-perception.html
 - [x] skipped (images only) | https://amritananda-natha-saraswati.blogspot.com/2016/11/acharas-in-sri-vidya.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/you-have-all-freedom-in-universe.html -> freedom-in-tantra-guruji-on-diet-dress-and-rules.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-kundalini.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/memory-siddhi.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-kundalini.html -> kundalini-and-the-guru-descent-of-amrita.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/memory-siddhi.html -> bhramari-pranayama-guruji-on-the-bee-breath.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/aggregates-of-life.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-stotra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/every-man-should-know-about-god.html
