@@ -131,8 +131,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/you-have-all-freedom-in-universe.html -> freedom-in-tantra-guruji-on-diet-dress-and-rules.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-kundalini.html -> kundalini-and-the-guru-descent-of-amrita.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/memory-siddhi.html -> bhramari-pranayama-guruji-on-the-bee-breath.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/aggregates-of-life.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-stotra.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/aggregates-of-life.html -> the-aggregate-self-guruji-on-the-individual-self.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-stotra.html -> guru-stotra-guruji-dhyana-sloka-and-guru-mantra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/every-man-should-know-about-god.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/brain-is-conscious.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rashmi-mala-mantras.html

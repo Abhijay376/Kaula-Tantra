@@ -96,3 +96,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-10 | freedom-in-tantra-guruji-on-diet-dress-and-rules.html | "freedom in tantra" | no live keyword tool in this run, chosen for search intent
 2026-11-11 | kundalini-and-the-guru-descent-of-amrita.html | "kundalini and the guru" | no live keyword tool in this run, chosen for search intent
 2026-11-11 | bhramari-pranayama-guruji-on-the-bee-breath.html | "bhramari pranayama" | no live keyword tool in this run, chosen for search intent
+2026-11-12 | the-aggregate-self-guruji-on-the-individual-self.html | "individual self" | no live keyword tool in this run, chosen for search intent
+2026-11-12 | guru-stotra-guruji-dhyana-sloka-and-guru-mantra.html | "guru stotra" | no live keyword tool in this run, chosen for search intent
