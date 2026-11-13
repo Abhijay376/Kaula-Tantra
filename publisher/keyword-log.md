@@ -98,3 +98,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-11 | bhramari-pranayama-guruji-on-the-bee-breath.html | "bhramari pranayama" | no live keyword tool in this run, chosen for search intent
 2026-11-12 | the-aggregate-self-guruji-on-the-individual-self.html | "individual self" | no live keyword tool in this run, chosen for search intent
 2026-11-12 | guru-stotra-guruji-dhyana-sloka-and-guru-mantra.html | "guru stotra" | no live keyword tool in this run, chosen for search intent
+2026-11-13 | does-consciousness-create-reality-guruji-on-new-physics.html | "does consciousness create reality" | no live keyword tool in this run, chosen for search intent
+2026-11-13 | rashmi-mala-mantras-guruji-list-of-vidyas.html | "rashmi mala mantras" | no live keyword tool in this run, chosen for search intent

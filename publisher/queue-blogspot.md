@@ -133,9 +133,9 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/memory-siddhi.html -> bhramari-pranayama-guruji-on-the-bee-breath.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/aggregates-of-life.html -> the-aggregate-self-guruji-on-the-individual-self.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-stotra.html -> guru-stotra-guruji-dhyana-sloka-and-guru-mantra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/every-man-should-know-about-god.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/brain-is-conscious.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rashmi-mala-mantras.html
+- [x] skipped | https://amritananda-natha-saraswati.blogspot.com/2016/11/every-man-should-know-about-god.html (4-line note by Sri Kalyanananda Bharathi, shared by William Thomas, not Guruji; too thin)
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/brain-is-conscious.html -> does-consciousness-create-reality-guruji-on-new-physics.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rashmi-mala-mantras.html -> rashmi-mala-mantras-guruji-list-of-vidyas.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-paduka.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/understanding-fear.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-diet.html
