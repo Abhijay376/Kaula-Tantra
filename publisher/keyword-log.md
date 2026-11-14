@@ -100,3 +100,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-12 | guru-stotra-guruji-dhyana-sloka-and-guru-mantra.html | "guru stotra" | no live keyword tool in this run, chosen for search intent
 2026-11-13 | does-consciousness-create-reality-guruji-on-new-physics.html | "does consciousness create reality" | no live keyword tool in this run, chosen for search intent
 2026-11-13 | rashmi-mala-mantras-guruji-list-of-vidyas.html | "rashmi mala mantras" | no live keyword tool in this run, chosen for search intent
+2026-11-14 | guru-paduka-mantra-guruji-on-the-supreme-key.html | "guru paduka mantra" | no live keyword tool in this run, chosen for search intent
+2026-11-14 | understanding-fear-guruji-on-birth-and-the-unknown.html | "understanding fear" | no live keyword tool in this run, chosen for search intent

@@ -136,8 +136,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] skipped | https://amritananda-natha-saraswati.blogspot.com/2016/11/every-man-should-know-about-god.html (4-line note by Sri Kalyanananda Bharathi, shared by William Thomas, not Guruji; too thin)
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/brain-is-conscious.html -> does-consciousness-create-reality-guruji-on-new-physics.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rashmi-mala-mantras.html -> rashmi-mala-mantras-guruji-list-of-vidyas.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-paduka.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/understanding-fear.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-paduka.html -> guru-paduka-mantra-guruji-on-the-supreme-key.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/understanding-fear.html -> understanding-fear-guruji-on-birth-and-the-unknown.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-diet.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/how-to-achive-devi.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/harmonizing-with-environment_5.html
