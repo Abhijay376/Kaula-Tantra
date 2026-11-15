@@ -138,10 +138,10 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/rashmi-mala-mantras.html -> rashmi-mala-mantras-guruji-list-of-vidyas.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-paduka.html -> guru-paduka-mantra-guruji-on-the-supreme-key.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/understanding-fear.html -> understanding-fear-guruji-on-birth-and-the-unknown.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-diet.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/how-to-achive-devi.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/harmonizing-with-environment_5.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/prepare.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/about-diet.html -> skipped (too short, two lines)
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/how-to-achive-devi.html -> skipped (too short, two lines)
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/harmonizing-with-environment_5.html -> personal-values-and-society-guruji-on-harmony.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/prepare.html -> why-love-others-guruji-prepare-questions.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/spirituality-is-not-dull-and-boring.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/from-zero-to-space-time-enegry-matter.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/astrology-and-environment.html

@@ -102,3 +102,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-13 | rashmi-mala-mantras-guruji-list-of-vidyas.html | "rashmi mala mantras" | no live keyword tool in this run, chosen for search intent
 2026-11-14 | guru-paduka-mantra-guruji-on-the-supreme-key.html | "guru paduka mantra" | no live keyword tool in this run, chosen for search intent
 2026-11-14 | understanding-fear-guruji-on-birth-and-the-unknown.html | "understanding fear" | no live keyword tool in this run, chosen for search intent
+2026-11-15 | personal-values-and-society-guruji-on-harmony.html | "personal values and society" | no live keyword tool in this run, chosen for search intent
+2026-11-15 | why-love-others-guruji-prepare-questions.html | "why love others" | no live keyword tool in this run, chosen for search intent
