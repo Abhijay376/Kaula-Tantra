@@ -104,3 +104,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-14 | understanding-fear-guruji-on-birth-and-the-unknown.html | "understanding fear" | no live keyword tool in this run, chosen for search intent
 2026-11-15 | personal-values-and-society-guruji-on-harmony.html | "personal values and society" | no live keyword tool in this run, chosen for search intent
 2026-11-15 | why-love-others-guruji-prepare-questions.html | "why love others" | no live keyword tool in this run, chosen for search intent
+2026-11-16 | role-of-the-guru-spirituality-is-divine-romance.html | "role of the guru" | no live keyword tool in this run, chosen for search intent
+2026-11-16 | shunya-and-purna-guruji-on-zero-infinity-brahman.html | "shunya and purna" | no live keyword tool in this run, chosen for search intent

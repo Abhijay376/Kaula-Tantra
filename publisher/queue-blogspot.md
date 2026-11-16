@@ -142,8 +142,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/how-to-achive-devi.html -> skipped (too short, two lines)
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/harmonizing-with-environment_5.html -> personal-values-and-society-guruji-on-harmony.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/prepare.html -> why-love-others-guruji-prepare-questions.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/spirituality-is-not-dull-and-boring.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/from-zero-to-space-time-enegry-matter.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/spirituality-is-not-dull-and-boring.html -> role-of-the-guru-spirituality-is-divine-romance.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/from-zero-to-space-time-enegry-matter.html -> shunya-and-purna-guruji-on-zero-infinity-brahman.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/astrology-and-environment.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/shakti-tantric-temple-of-nude-goddesses.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-about-nudity.html
