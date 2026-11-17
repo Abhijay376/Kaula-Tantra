@@ -106,3 +106,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-15 | why-love-others-guruji-prepare-questions.html | "why love others" | no live keyword tool in this run, chosen for search intent
 2026-11-16 | role-of-the-guru-spirituality-is-divine-romance.html | "role of the guru" | no live keyword tool in this run, chosen for search intent
 2026-11-16 | shunya-and-purna-guruji-on-zero-infinity-brahman.html | "shunya and purna" | no live keyword tool in this run, chosen for search intent
+2026-11-17 | astrology-and-sadhana-guruji-on-knowing-the-future.html | "astrology and sadhana" | no live keyword tool in this run, chosen for search intent
+2026-11-17 | shakti-tantra-guruji-on-the-nude-goddesses-of-devipuram.html | "shakti tantra" | no live keyword tool in this run, chosen for search intent

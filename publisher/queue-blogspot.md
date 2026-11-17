@@ -144,8 +144,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/prepare.html -> why-love-others-guruji-prepare-questions.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/spirituality-is-not-dull-and-boring.html -> role-of-the-guru-spirituality-is-divine-romance.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/from-zero-to-space-time-enegry-matter.html -> shunya-and-purna-guruji-on-zero-infinity-brahman.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/astrology-and-environment.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/shakti-tantric-temple-of-nude-goddesses.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/astrology-and-environment.html -> astrology-and-sadhana-guruji-on-knowing-the-future.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/shakti-tantric-temple-of-nude-goddesses.html -> shakti-tantra-guruji-on-the-nude-goddesses-of-devipuram.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-about-nudity.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/nudity-and-desires-suppression-or.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-questions-and-answers.html
