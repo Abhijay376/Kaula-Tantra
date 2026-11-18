@@ -146,8 +146,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/from-zero-to-space-time-enegry-matter.html -> shunya-and-purna-guruji-on-zero-infinity-brahman.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/astrology-and-environment.html -> astrology-and-sadhana-guruji-on-knowing-the-future.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/shakti-tantric-temple-of-nude-goddesses.html -> shakti-tantra-guruji-on-the-nude-goddesses-of-devipuram.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-about-nudity.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/nudity-and-desires-suppression-or.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-about-nudity.html -> nudity-and-shame-guruji-on-why-the-goddesses-are-nude.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/nudity-and-desires-suppression-or.html -> suppressed-desires-guruji-on-desire-and-the-nude-goddesses.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-questions-and-answers.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/secret-pujas-of-mother-goddess.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/usual-talk-by-guruji-to-visitors.html

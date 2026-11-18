@@ -108,3 +108,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-16 | shunya-and-purna-guruji-on-zero-infinity-brahman.html | "shunya and purna" | no live keyword tool in this run, chosen for search intent
 2026-11-17 | astrology-and-sadhana-guruji-on-knowing-the-future.html | "astrology and sadhana" | no live keyword tool in this run, chosen for search intent
 2026-11-17 | shakti-tantra-guruji-on-the-nude-goddesses-of-devipuram.html | "shakti tantra" | no live keyword tool in this run, chosen for search intent
+2026-11-18 | nudity-and-shame-guruji-on-why-the-goddesses-are-nude.html | "nudity and shame" | no live keyword tool in this run, chosen for search intent
+2026-11-18 | suppressed-desires-guruji-on-desire-and-the-nude-goddesses.html | "suppressed desires" | no live keyword tool in this run, chosen for search intent
