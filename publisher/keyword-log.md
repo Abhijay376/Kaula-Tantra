@@ -110,3 +110,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-17 | shakti-tantra-guruji-on-the-nude-goddesses-of-devipuram.html | "shakti tantra" | no live keyword tool in this run, chosen for search intent
 2026-11-18 | nudity-and-shame-guruji-on-why-the-goddesses-are-nude.html | "nudity and shame" | no live keyword tool in this run, chosen for search intent
 2026-11-18 | suppressed-desires-guruji-on-desire-and-the-nude-goddesses.html | "suppressed desires" | no live keyword tool in this run, chosen for search intent
+2026-11-19 | why-so-many-gods-guruji-devipuram-questions-and-answers.html | "why so many gods in hinduism" | no live keyword tool in this run, chosen for search intent
+2026-11-19 | sri-meru-temple-guruji-on-the-living-sri-chakra.html | "sri meru temple" | no live keyword tool in this run, chosen for search intent

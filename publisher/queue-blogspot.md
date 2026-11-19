@@ -148,8 +148,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/shakti-tantric-temple-of-nude-goddesses.html -> shakti-tantra-guruji-on-the-nude-goddesses-of-devipuram.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-about-nudity.html -> nudity-and-shame-guruji-on-why-the-goddesses-are-nude.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/nudity-and-desires-suppression-or.html -> suppressed-desires-guruji-on-desire-and-the-nude-goddesses.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-questions-and-answers.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/secret-pujas-of-mother-goddess.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-questions-and-answers.html -> why-so-many-gods-guruji-devipuram-questions-and-answers.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/secret-pujas-of-mother-goddess.html -> sri-meru-temple-guruji-on-the-living-sri-chakra.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/usual-talk-by-guruji-to-visitors.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/effects-of-repressing-or-supressing.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/on-turning-point-hill.html
