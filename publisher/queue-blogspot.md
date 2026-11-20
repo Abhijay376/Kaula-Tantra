@@ -150,8 +150,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/nudity-and-desires-suppression-or.html -> suppressed-desires-guruji-on-desire-and-the-nude-goddesses.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/devipuram-questions-and-answers.html -> why-so-many-gods-guruji-devipuram-questions-and-answers.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/secret-pujas-of-mother-goddess.html -> sri-meru-temple-guruji-on-the-living-sri-chakra.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/usual-talk-by-guruji-to-visitors.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/effects-of-repressing-or-supressing.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/usual-talk-by-guruji-to-visitors.html -> is-devi-puja-dangerous-guruji-on-life-and-worship.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/effects-of-repressing-or-supressing.html -> effects-of-suppressing-sexual-desire-guruji.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/on-turning-point-hill.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-sri-chakra-what-is-in-it-for-me.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/ganapathy-tarpanam_6.html
