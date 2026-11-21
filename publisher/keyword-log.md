@@ -114,3 +114,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-19 | sri-meru-temple-guruji-on-the-living-sri-chakra.html | "sri meru temple" | no live keyword tool in this run, chosen for search intent
 2026-11-20 | is-devi-puja-dangerous-guruji-on-life-and-worship.html | "is devi puja dangerous" | no live keyword tool in this run, chosen for search intent
 2026-11-20 | effects-of-suppressing-sexual-desire-guruji.html | "suppressing sexual desire" | no live keyword tool in this run, chosen for search intent
+2026-11-21 | balaji-temple-vision-guruji-turning-point-1977.html | "guruji balaji temple vision" | no live keyword tool in this run, chosen for search intent
+2026-11-21 | what-is-sri-chakra-guruji-on-the-nine-layers.html | "what is sri chakra" | no live keyword tool in this run, chosen for search intent

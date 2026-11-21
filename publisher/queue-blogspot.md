@@ -152,8 +152,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/secret-pujas-of-mother-goddess.html -> sri-meru-temple-guruji-on-the-living-sri-chakra.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/usual-talk-by-guruji-to-visitors.html -> is-devi-puja-dangerous-guruji-on-life-and-worship.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/effects-of-repressing-or-supressing.html -> effects-of-suppressing-sexual-desire-guruji.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/on-turning-point-hill.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-sri-chakra-what-is-in-it-for-me.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/11/on-turning-point-hill.html -> balaji-temple-vision-guruji-turning-point-1977.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-sri-chakra-what-is-in-it-for-me.html -> what-is-sri-chakra-guruji-on-the-nine-layers.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/ganapathy-tarpanam_6.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/syama-yantra-puja.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/varahi-puja.html
