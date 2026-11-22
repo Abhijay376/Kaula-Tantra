@@ -154,8 +154,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/effects-of-repressing-or-supressing.html -> effects-of-suppressing-sexual-desire-guruji.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/11/on-turning-point-hill.html -> balaji-temple-vision-guruji-turning-point-1977.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-sri-chakra-what-is-in-it-for-me.html -> what-is-sri-chakra-guruji-on-the-nine-layers.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/ganapathy-tarpanam_6.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/syama-yantra-puja.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/ganapathy-tarpanam_6.html -> ganapati-444-tarpanam-guruji.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/syama-yantra-puja.html -> syama-yantra-puja-guruji-on-shyama-matangi.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/varahi-puja.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sharing-what-little-i-know-of-goddess.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-katha.html
