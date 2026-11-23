@@ -156,8 +156,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-sri-chakra-what-is-in-it-for-me.html -> what-is-sri-chakra-guruji-on-the-nine-layers.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/ganapathy-tarpanam_6.html -> ganapati-444-tarpanam-guruji.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/syama-yantra-puja.html -> syama-yantra-puja-guruji-on-shyama-matangi.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/varahi-puja.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sharing-what-little-i-know-of-goddess.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/varahi-puja.html -> varahi-puja-guruji-kola-mukhi-krama.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sharing-what-little-i-know-of-goddess.html -> connect-with-the-goddess-guruji-simple-prayer.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-katha.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-garu-katha.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/learn-sri-vidya.html

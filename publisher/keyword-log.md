@@ -118,3 +118,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-21 | what-is-sri-chakra-guruji-on-the-nine-layers.html | "what is sri chakra" | no live keyword tool in this run, chosen for search intent
 2026-11-22 | ganapati-444-tarpanam-guruji.html | "ganapati tarpanam" | no live keyword tool in this run, chosen for search intent
 2026-11-22 | syama-yantra-puja-guruji-on-shyama-matangi.html | "syama yantra puja" | no live keyword tool in this run, chosen for search intent
+2026-11-23 | varahi-puja-guruji-kola-mukhi-krama.html | "varahi puja" | no live keyword tool in this run, chosen for search intent
+2026-11-23 | connect-with-the-goddess-guruji-simple-prayer.html | "how to connect with the goddess" | no live keyword tool in this run, chosen for search intent
