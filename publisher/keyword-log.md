@@ -120,3 +120,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-22 | syama-yantra-puja-guruji-on-shyama-matangi.html | "syama yantra puja" | no live keyword tool in this run, chosen for search intent
 2026-11-23 | varahi-puja-guruji-kola-mukhi-krama.html | "varahi puja" | no live keyword tool in this run, chosen for search intent
 2026-11-23 | connect-with-the-goddess-guruji-simple-prayer.html | "how to connect with the goddess" | no live keyword tool in this run, chosen for search intent
+2026-11-24 | guruji-katha-sayings-and-stories.html | "devipuram guruji sayings" | no live keyword tool in this run, chosen for search intent
+2026-11-24 | guru-garu-katha-avadhuta-swaprakashananda-theertha.html | "swaprakashananda theertha avadhuta" | no live keyword tool in this run, chosen for search intent

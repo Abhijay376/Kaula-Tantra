@@ -158,8 +158,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/syama-yantra-puja.html -> syama-yantra-puja-guruji-on-shyama-matangi.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/varahi-puja.html -> varahi-puja-guruji-kola-mukhi-krama.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sharing-what-little-i-know-of-goddess.html -> connect-with-the-goddess-guruji-simple-prayer.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-katha.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-garu-katha.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-katha.html -> guruji-katha-sayings-and-stories.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-garu-katha.html -> guru-garu-katha-avadhuta-swaprakashananda-theertha.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/learn-sri-vidya.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-initiation-and-what-does-it.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/devi.html
