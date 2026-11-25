@@ -160,8 +160,8 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/sharing-what-little-i-know-of-goddess.html -> connect-with-the-goddess-guruji-simple-prayer.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/guruji-katha.html -> guruji-katha-sayings-and-stories.html
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-garu-katha.html -> guru-garu-katha-avadhuta-swaprakashananda-theertha.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/learn-sri-vidya.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-initiation-and-what-does-it.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/learn-sri-vidya.html -> what-is-sri-vidya-guruji-desire-to-identity.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-initiation-and-what-does-it.html -> sri-vidya-initiation-guruji-collective-consciousness.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/devi.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/sitaramdas-amrit-katha-2.html
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/sitaramdas-amrit-katha-1_2.html
