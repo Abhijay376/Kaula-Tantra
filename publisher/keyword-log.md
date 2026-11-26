@@ -124,3 +124,5 @@ Date, slug, term used, volume (from Google + Keyword Surfer where available).
 2026-11-24 | guru-garu-katha-avadhuta-swaprakashananda-theertha.html | "swaprakashananda theertha avadhuta" | no live keyword tool in this run, chosen for search intent
 2026-11-25 | what-is-sri-vidya-guruji-desire-to-identity.html | "what is sri vidya" | no live keyword tool in this run, chosen for search intent
 2026-11-25 | sri-vidya-initiation-guruji-collective-consciousness.html | "sri vidya initiation" | no live keyword tool in this run, chosen for search intent
+2026-11-26 | who-is-devi-guruji-on-the-goddess-of-opposites.html | "who is devi" | no live keyword tool in this run, chosen for search intent
+2026-11-26 | sitaramdas-omkarnath-amrit-katha-part-1.html | "thakur sitaramdas omkarnath" | no live keyword tool in this run, chosen for search intent

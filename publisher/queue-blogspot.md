@@ -162,9 +162,9 @@ Tick lines like: `- [x] guruji | URL -> slug.html`
 - [x] reference | https://amritananda-natha-saraswati.blogspot.com/2016/11/guru-garu-katha.html -> guru-garu-katha-avadhuta-swaprakashananda-theertha.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/learn-sri-vidya.html -> what-is-sri-vidya-guruji-desire-to-identity.html
 - [x] guruji | https://amritananda-natha-saraswati.blogspot.com/2016/11/what-is-initiation-and-what-does-it.html -> sri-vidya-initiation-guruji-collective-consciousness.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/devi.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/sitaramdas-amrit-katha-2.html
-- [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/sitaramdas-amrit-katha-1_2.html
+- [x] guruji | https://amritananda-natha-saraswati.blogspot.com/p/devi.html -> who-is-devi-guruji-on-the-goddess-of-opposites.html
+- [x] reference | https://amritananda-natha-saraswati.blogspot.com/p/sitaramdas-amrit-katha-1_2.html -> sitaramdas-omkarnath-amrit-katha-part-1.html
+- [ ] reference | https://amritananda-natha-saraswati.blogspot.com/p/sitaramdas-amrit-katha-2.html (series: link back to sitaramdas-omkarnath-amrit-katha-part-1.html and add a "next" link on part 1)
 - [ ] guruji | https://amritananda-natha-saraswati.blogspot.com/p/parashurama-kalpa-sutra.html
 
 ## Other writers: reference entries (do after the rest)
